@@ -5,4 +5,4 @@ info:
 
 # HTTP Server
 server: 
- port: 8761
+ port: 8888
