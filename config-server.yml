@@ -1,7 +1,7 @@
 ## YAML Template.
 ---
 info:
- component: microservicios-eurekaserver
+ component: microservicios-configserver
 
 # HTTP Server
 server: 
