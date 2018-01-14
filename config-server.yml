@@ -1,0 +1,8 @@
+## YAML Template.
+---
+info:
+ component: microservicios-eurekaserver
+
+# HTTP Server
+server: 
+ port: 8761
