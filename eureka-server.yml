@@ -8,6 +8,6 @@ logging:
     org.springframework.cloud: 'DEBUG'
     cl.pragma.microservicios: 'DEBUG'
     
- # Spring properties 
- profiles: 
-  active: dev
+# Spring properties 
+profiles: 
+ active: dev
