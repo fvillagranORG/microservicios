@@ -7,3 +7,7 @@ logging:
     com.netflix.discovery: 'OFF'
     org.springframework.cloud: 'DEBUG'
     cl.pragma.microservicios: 'DEBUG'
+    
+ # Spring properties 
+ profiles: 
+  active: dev
