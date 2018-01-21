@@ -1,6 +1,6 @@
 # HTTP Server
-server:  
-  port: 0   # HTTP port
+#server:  
+#  port: 0   # HTTP port
   
 logging:
   file: logs/${spring.application.name}.log
