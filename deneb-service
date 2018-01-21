@@ -8,5 +8,5 @@ eureka:
 
 pragma:  
   sadr:
-    name: sadr-service
+    name: sadr
     pingUrl: http://${pragma.sadr.name}/sadr/ping/
