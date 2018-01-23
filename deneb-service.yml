@@ -10,3 +10,11 @@ pragma:
   sadr:
     name: sadr-service
     pingUrl: http://${pragma.sadr.name}/sadr/ping/
+
+logging:
+  file: logs/${spring.application.name}.log
+  level:
+    com.netflix.discovery: 'OFF'
+    org.springframework.cloud: 'INFO'
+    org.springframework.web: 'INFO'
+    cl.pragma.microservicios: 'DEBUG'
